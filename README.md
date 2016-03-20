@@ -1,2 +1,2 @@
-# ComilioProvider.Net
-A Comilio provider for .Net
+# ComilioWrapper.Net
+A Comilio wrapper for .Net
